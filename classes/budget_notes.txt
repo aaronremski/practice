@@ -1,0 +1,5 @@
+Budget class purpose & flexibility:
+
+1. tracks total expenses (for month/year)
+2. tracks category balance (for month/year)
+3. computes how much money you are spending across class categories as a % of your total expenses

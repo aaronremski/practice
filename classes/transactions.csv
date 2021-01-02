@@ -1,0 +1,11 @@
+date,credit,debit,category,notes,account_type,account_no
+12/1/2020,,$100.00,food,groceries,checking,7149
+12/4/2020,,$55.00,tech,charge cable for garmin,checking,7149
+12/5/2020,,$11.00,food,snacks,checking,7149
+12/7/2020,,$200.00,entertainment,etc,checking,7149
+12/7/2020,,$110.00,food,ordered takeout,checking,7149
+12/7/2020,$500.00,,deposit,from 7913,checking,7149
+12/7/2020,,$500.00,transfer,to 7149,checking,7913
+12/8/2020,,$100.00,savings,save,checking,7149
+12/8/2020,$100.00,,savings,save,savings,0067
+12/2/2020,$20000.00,,salary,paycheck,checking,7913
