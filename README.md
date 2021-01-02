@@ -1,4 +1,4 @@
-# Practice to develope programming skills
+# Practice to develop python skills
 
 ## class practice
   Check_Budget.py reads (X) days,months,years of transactions. After configuing budget limits run budget against transactions to see
@@ -12,3 +12,6 @@
   Classes:
   1. Accounts class
   2. Budget class
+  
+  Packages used:
+  1. Pandas
